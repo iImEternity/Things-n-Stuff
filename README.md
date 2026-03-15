@@ -3,4 +3,6 @@ Hello! This is Things n' Stuff, collabs and more, these are parts that might be 
 
 The releases I make may or may not have a version of the .pack for mobile, so be aware of that.
 
+Now with open Source !!
+
 <img width="1919" height="1079" alt="Things n&#39; Stuff" src="https://github.com/user-attachments/assets/9a4fb9bb-bd54-4d33-b100-3420ce7d9637" />
