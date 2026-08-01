@@ -1,7 +1,7 @@
-# Things-n-Stuff
-Hello! This is Things n' Stuff, collabs and more, these are parts that might be useful to you at some point.  I want to say that this is my first time making custom parts, so there may be errors or other issues. I'll be reading the replies in the official sfs forum thread over the coming months/years to fix any bugs present in the pack.
+# Integrated Propulsion & Systems
+Integrated Propulsion & Systems (IPS) is a modpack focused on bringing space propulsion to an unprecedented level of realism. Every engine is designed with inspiration from real propulsion systems - from hydrolox configurations to high-performance expansion nozzles, aiming to capture both the physical behavior and the engineering behind the rockets that have carried real missions into space.
 
-The releases I make may or may not have a version of the .pack for mobile, so be aware of that.
+Our primary focus is functionality: each engine is built to behave consistently with its propellant type, expansion ratio, and role within a mission, whether during liftoff, upper-stage operation, or vacuum maneuvers. Designs, while secondary, aren't overlooked either - we aim for every design to feel credible and detailed, reflecting the visual complexity of real engines without sacrificing in-game performance
 
 Now with open Source !!
 
